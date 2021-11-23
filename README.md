@@ -5,5 +5,5 @@
 <h2>2-git pull</h2>
 <p>The git pull command is used to fetch and download content from a remote repository<br> and immediately update the local repository to match that content.</p>
 
-<h3>3-git push</h3>
+<h2>3-git push</h2>
 <p>The git add command adds a change in the working directory to the staging area. <br>It tells Git that you want to include updates to a particular file in the next commit.</p>
